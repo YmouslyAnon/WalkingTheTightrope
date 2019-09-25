@@ -1,0 +1,7 @@
+pt-trainer==0.1.8
+autoencoder==0.0.4
+torch==1.1.0
+scikit-image==0.15.0
+pandas==0.24.2
+opencv==4.1.1
+h5py==2.9.0
